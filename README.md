@@ -6,3 +6,5 @@ The usage:
 2. export LD_PRELOAD=/usr/local/lib/libnvidia_opti.so 
 
 
+
+
